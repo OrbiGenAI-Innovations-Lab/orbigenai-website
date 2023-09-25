@@ -45,7 +45,9 @@ We welcome contributions from the AI community. Whether you're interested in imp
 
 ## License 
 
-  Made with Love ❤️ by OrbiGenAI
-
+<p align="center">
+Made with :heart: by OrbiGenAI Innovations Lab <br>
+Copyright | @orbigenai
+</p>
 
 
