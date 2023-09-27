@@ -18,12 +18,16 @@ Our website serves as a gateway to the world of AI innovation. Here, you'll disc
 
 - **Resources:** Access a wealth of resources, including whitepapers, ebooks, and educational content, to deepen your understanding of AI technology.
 
+
+## Features
+Key features or functionalities of the website:
+ - 
+ - 
+
+
 ## Get Started
 
 Ready to dive into the world of AI innovation? Start by visiting our website at [https://www.orbigenai.com](https://www.orbigenai.com).
-
-
-
 
 
 ### Tech Stack
@@ -32,22 +36,6 @@ Ready to dive into the world of AI innovation? Start by visiting our website at 
  - [Typescript](https://www.typescriptlang.org/) - language
  - [Tailwind](https://tailwindcss.com/) - CSS
 
-## Features
 
-- [List key features or functionalities of the website.]()
-  -  
-
-
-## Contributing
-
-We welcome contributions from the AI community. Whether you're interested in improving our website, collaborating on AI projects, or sharing your expertise, we're excited to work together. Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
-
-
-## License 
-
-<p align="center">
-Made with :heart: by OrbiGenAI Innovations Lab <br>
-Copyright | @orbigenai
-</p>
 
 
