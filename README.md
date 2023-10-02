@@ -1,6 +1,6 @@
 # OrbiGenAI Innovations Lab Website
 
-This repository contains the source code and assets for the OrbiGenAI Innovations Lab website
+[![pages-build-deployment](https://github.com/OrbiGenAI-Innovations-Lab/orbigenai-website/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/OrbiGenAI-Innovations-Lab/orbigenai-website/actions/workflows/pages/pages-build-deployment)
 
 ## About Us
 
