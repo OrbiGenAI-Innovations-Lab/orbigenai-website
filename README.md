@@ -33,8 +33,10 @@ Ready to dive into the world of AI innovation? Start by visiting our website at 
 ### Tech Stack
 
  - [Next.Js](https://nextjs.org/) - framework
+ - [ReactJs]() - javascript library
  - [Typescript](https://www.typescriptlang.org/) - language
  - [Tailwind](https://tailwindcss.com/) - CSS
+ - [Radix]() - 
 
 
 
