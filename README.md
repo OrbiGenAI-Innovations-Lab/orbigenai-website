@@ -26,7 +26,7 @@ Our website serves as a gateway to the world of AI innovation. Here, you'll disc
 
 ## Get Started
 
-Ready to dive into the world of AI innovation? Start by visiting our website at [https://www.orbigenai.com](https://www.orbigenai.com).
+Ready to dive into the world of AI innovation? Start by visiting our website at [https://www.orbigenai.com](orbigenai.com).
 
 
 ### Tech Stack
