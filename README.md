@@ -19,8 +19,7 @@ Our website serves as a gateway to the world of AI innovation. Here, you'll disc
 - **Resources:** Access a wealth of resources, including whitepapers, ebooks, and educational content, to deepen your understanding of AI technology.
 
 
-## Features
-### Key features or functionalities of the website:
+## Key features of the website:
  - 
  - 
 
