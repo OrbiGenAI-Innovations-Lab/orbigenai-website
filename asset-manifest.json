@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/orbigenai-website/static/css/main.11190e97.css",
-    "main.js": "/orbigenai-website/static/js/main.a18047c2.js",
-    "index.html": "/orbigenai-website/index.html",
-    "main.11190e97.css.map": "/orbigenai-website/static/css/main.11190e97.css.map",
-    "main.a18047c2.js.map": "/orbigenai-website/static/js/main.a18047c2.js.map"
+    "main.css": "/static/css/main.11190e97.css",
+    "main.js": "/static/js/main.a18047c2.js",
+    "index.html": "/index.html",
+    "main.11190e97.css.map": "/static/css/main.11190e97.css.map",
+    "main.a18047c2.js.map": "/static/js/main.a18047c2.js.map"
   },
   "entrypoints": [
     "static/css/main.11190e97.css",
