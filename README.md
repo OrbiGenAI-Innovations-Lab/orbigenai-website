@@ -19,24 +19,9 @@ Our website serves as a gateway to the world of AI innovation. Here, you'll disc
 - **Resources:** Access a wealth of resources, including whitepapers, ebooks, and educational content, to deepen your understanding of AI technology.
 
 
-## Key features of the website:
- - 
- - 
-
-
 ## Get Started
 
 Ready to dive into the world of AI innovation? Start by visiting our website at [orbigenai.com](https://orbigenai.com)
-
-
-### Tech Stack
-
- - [Next.Js](https://nextjs.org/) - framework
- - [ReactJs]() - javascript library
- - [Typescript](https://www.typescriptlang.org/) - language
- - [Tailwind](https://tailwindcss.com/) - CSS
- - [Radix]() - 
-
 
 
 
